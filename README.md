@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mark-ResDiary
+- 👀 I’m interested in ... Types 
+- 🌱 I’m currently learning ... React
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ... on Slack
